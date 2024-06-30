@@ -14,4 +14,4 @@ toast("api error", {
 
 ## showcase
 
-![demo]("./screenshots/demo.gif")
+![demo](./screenshots/demo.gif)
